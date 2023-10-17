@@ -37,5 +37,3 @@ A mesclagem dos nomes de departamentos e localizações cria uma coluna única q
 ## Conclusão
 
 As modificações realizadas no projeto "Azure Company" visaram melhorar a qualidade dos dados, otimizar a estrutura do banco de dados e atender aos requisitos específicos do projeto. Essas modificações contribuem para a criação de um modelo de dados mais eficiente e preparado para análises futuras.
-
-[Assinatura e Data]
